@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@appbaseio/reactivesearch": "^2.6.5",
+    "@material-ui/core": "^1.2.2",
     "react": "^16.4.0",
     "react-dom": "^16.4.0"
   },
